@@ -1,0 +1,10 @@
+Tools/
+Generated/
+Build/
+Resources/manifest.json
+*.xcuserstate
+xcuserdata/
+GeneratedResources/
+__pycache__/
+
+Resources/shader-index.json

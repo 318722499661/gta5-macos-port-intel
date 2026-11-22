@@ -1,0 +1,16 @@
+# Never commit game files or anything generated from them.
+*.wasm
+*.rpf
+mirror/
+app/Generated/
+app/Tools/
+app/Build/
+app/Resources/manifest.json
+app/Resources/wgpu_worker.js
+app/*.xcodeproj
+*.ipa
+GTA V Port.app
+GTA5Port-mac.zip
+.DS_Store
+
+intel-*.log
